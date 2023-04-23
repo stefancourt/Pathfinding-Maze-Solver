@@ -1,7 +1,7 @@
 # Python Pathfinding Maze Solver
 
 ## 🧑🏻‍💻 Author
-[Stefan Court(https://github.com/stefancourt)
+[Stefan Court](https://github.com/stefancourt)
 
 ## 📖 Program contents
 The notebook contains 3 maze solving algorithms that each contain descriptions. these 3 algorithms are Depth-First search, A* search and Breadth-First Search. When running either of these programs they will output the time taken to complete the maze, the number of nodes in the path, the number of nodes explored and the resulting path taken. This path taken is written to a corresponding file for the algorithm and maze.
