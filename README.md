@@ -1,4 +1,4 @@
-# Python Pathfinding Maze Solver
+# Pathfinding Maze Solver
 
 ## 🧑🏻‍💻 Author
 [Stefan Court](https://github.com/stefancourt)
